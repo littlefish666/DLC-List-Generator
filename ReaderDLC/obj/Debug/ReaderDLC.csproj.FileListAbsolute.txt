@@ -16,3 +16,9 @@ G:\Visual Studio Shared Projects\DLC List Generator by Frazzlee\AdditionalFiles\
 G:\Visual Studio Shared Projects\DLC List Generator by Frazzlee\AdditionalFiles\ReaderDLC\ReaderDLC\bin\Debug\ReaderDLC.exe
 G:\Visual Studio Shared Projects\DLC List Generator by Frazzlee\AdditionalFiles\ReaderDLC\ReaderDLC\bin\Debug\ReaderDLC.pdb
 G:\Visual Studio Shared Projects\DLC List Generator by Frazzlee\AdditionalFiles\ReaderDLC\ReaderDLC\obj\Debug\ReaderDLC.csprojResolveAssemblyReference.cache
+G:\Visual Studio Shared Projects\DLC List Generator by Frazzlee\AdditionalFiles\ReaderDLC\DLC-List-Generator\ReaderDLC\bin\Debug\ReaderDLC.exe.config
+G:\Visual Studio Shared Projects\DLC List Generator by Frazzlee\AdditionalFiles\ReaderDLC\DLC-List-Generator\ReaderDLC\bin\Debug\ReaderDLC.exe
+G:\Visual Studio Shared Projects\DLC List Generator by Frazzlee\AdditionalFiles\ReaderDLC\DLC-List-Generator\ReaderDLC\bin\Debug\ReaderDLC.pdb
+G:\Visual Studio Shared Projects\DLC List Generator by Frazzlee\AdditionalFiles\ReaderDLC\DLC-List-Generator\ReaderDLC\obj\Debug\ReaderDLC.csprojResolveAssemblyReference.cache
+G:\Visual Studio Shared Projects\DLC List Generator by Frazzlee\AdditionalFiles\ReaderDLC\DLC-List-Generator\ReaderDLC\obj\Debug\ReaderDLC.exe
+G:\Visual Studio Shared Projects\DLC List Generator by Frazzlee\AdditionalFiles\ReaderDLC\DLC-List-Generator\ReaderDLC\obj\Debug\ReaderDLC.pdb

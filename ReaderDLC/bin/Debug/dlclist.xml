@@ -1,35 +1,61 @@
-mitevoxwide
-mpapartment
-mpbiker
-mpchristmas2
-mpexecutive
-mphalloween
-mpheist
-mpimportexport
-mpjanuary2016
-mplowrider
-mplowrider2
-mpluxe
-mpluxe2
-mppatchesng
-mpreplay
-mpspecialraces
-mpstunt
-mpvalentines2
-mpxmas_604490
-offroadbrimspack
-patchday10ng
-patchday11ng
-patchday12ng
-patchday13ng
-patchday14ng
-patchday1ng
-patchday2bng
-patchday2ng
-patchday3ng
-patchday4ng
-patchday5ng
-patchday6ng
-patchday7ng
-patchday8ng
-patchday9ng
+<?xml version="1.0" encoding="UTF-8"?>
+<SMandatoryPacksData>
+	<Paths>
+		<Item>dlcpacks:\rdrcloud\</Item>
+		<Item>platform:\dlcPacks\mpBeach\</Item>
+		<Item>platform:\dlcPacks\mpBusiness\</Item>
+		<Item>platform:\dlcPacks\mpChristmas\</Item>
+		<Item>platform:\dlcPacks\mpValentines\</Item>
+		<Item>platform:\dlcPacks\mpBusiness2\</Item>
+		<Item>platform:\dlcPacks\mpHipster\</Item>
+		<Item>platform:\dlcPacks\mpIndependence\</Item>
+		<Item>platform:\dlcPacks\mpPilot\</Item>
+		<Item>platform:\dlcPacks\spUpgrade\</Item>
+		<Item>platform:\dlcPacks\mpLTS\</Item>
+		<Item>dlcpacks:\488gtb\</Item>
+		<Item>dlcpacks:\aige\</Item>
+		<Item>dlcpacks:\fk2\</Item>
+		<Item>dlcpacks:\i8\</Item>
+		<Item>dlcpacks:\mitevoxwide\</Item>
+		<Item>dlcpacks:\mpapartment\</Item>
+		<Item>dlcpacks:\mpbiker\</Item>
+		<Item>dlcpacks:\mpchristmas2\</Item>
+		<Item>dlcpacks:\mpexecutive\</Item>
+		<Item>dlcpacks:\mphalloween\</Item>
+		<Item>dlcpacks:\mpheist\</Item>
+		<Item>dlcpacks:\mpimportexport\</Item>
+		<Item>dlcpacks:\mpjanuary2016\</Item>
+		<Item>dlcpacks:\mplowrider\</Item>
+		<Item>dlcpacks:\mplowrider2\</Item>
+		<Item>dlcpacks:\mpluxe\</Item>
+		<Item>dlcpacks:\mpluxe2\</Item>
+		<Item>dlcpacks:\mppatchesng\</Item>
+		<Item>dlcpacks:\mpreplay\</Item>
+		<Item>dlcpacks:\mpspecialraces\</Item>
+		<Item>dlcpacks:\mpstunt\</Item>
+		<Item>dlcpacks:\mpvalentines2\</Item>
+		<Item>dlcpacks:\mpxmas_604490\</Item>
+		<Item>dlcpacks:\offroadbrimspack\</Item>
+		<Item>dlcpacks:\patchday10ng\</Item>
+		<Item>dlcpacks:\patchday11ng\</Item>
+		<Item>dlcpacks:\patchday12ng\</Item>
+		<Item>dlcpacks:\patchday13ng\</Item>
+		<Item>dlcpacks:\patchday14ng\</Item>
+		<Item>dlcpacks:\patchday1ng\</Item>
+		<Item>dlcpacks:\patchday2bng\</Item>
+		<Item>dlcpacks:\patchday2ng\</Item>
+		<Item>dlcpacks:\patchday3ng\</Item>
+		<Item>dlcpacks:\patchday4ng\</Item>
+		<Item>dlcpacks:\patchday5ng\</Item>
+		<Item>dlcpacks:\patchday6ng\</Item>
+		<Item>dlcpacks:\patchday7ng\</Item>
+		<Item>dlcpacks:\patchday8ng\</Item>
+		<Item>dlcpacks:\patchday9ng\</Item>
+		<Item>dlcpacks:\rcf\</Item>
+		<Item>dlcpacks:\rdrcloud\</Item>
+		<Item>dlcpacks:\Subaru\</Item>
+		<Item>dlcpacks:\subbrz\</Item>
+		<Item>dlcpacks:\vans123\</Item>
+		<Item>dlcpacks:\Wraith\</Item>
+	</Paths>
+</ SMandatoryPacksData > 
