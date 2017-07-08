@@ -35,7 +35,7 @@ namespace DLC_List_Generator_by_Frazzlee
                 Console.WriteLine("Directory does not exist");
                 Console.ReadLine();
             }
-            if(config.Read("getFrommods") == "False")
+            if(config.Read("getFromMods") == "False")
             {
                 config.DeleteKey("getFrom");
                 config.Write("getFrom", gamePath + @"\update\x64\dlcpacks");
@@ -48,6 +48,11 @@ namespace DLC_List_Generator_by_Frazzlee
             string directory = config.Read("getFrom");
             config.DeleteKey("getFrom");
 
+            if (!Directory.Exists(directory))
+            {
+                Console.WriteLine("Directory doesn't exist");
+                Console.ReadLine();
+            }
 
 
                 //Getting foldernames here and everything to do with folders and gettings names/paths
