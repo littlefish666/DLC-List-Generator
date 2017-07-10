@@ -8,7 +8,7 @@ using System.Windows.Forms;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Text;
-
+using MyProg;
 
 namespace DLC_List_Generator_by_Frazzlee
 {   
